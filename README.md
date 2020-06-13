@@ -16,9 +16,6 @@ Each exercise includes 3 files, a markdown file with a description of the task, 
 
 The first exercise, `helloWorld` will walk you through the process in more depth.
 
-## Solutions
-
-Solutions for these exercises can be found in this repo on the 'solutions' branch.
 
 ## a quick note!
 
