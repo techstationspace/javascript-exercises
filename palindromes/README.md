@@ -2,6 +2,8 @@
 
 Write a function that determines whether or not a given string is a palindrome.
 
+Run the tests by entering `npm run jest -- palindromes/palindromes.spec.js` in the terminal and watch it fail.
+
 A palindrome is a string that is spelled the same both forwards and backwards, usually without considering punctuation or word breaks:
 
 ### some palindromes:

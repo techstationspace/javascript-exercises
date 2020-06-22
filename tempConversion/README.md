@@ -1,5 +1,7 @@
 # Exercise 06 - tempConversion
 
+Run the tests by entering `npm run jest tempConversion/tempConversion.spec.js` in the terminal and watch it fail.
+
 Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
 ```
 ftoc(32) // fahrenheit to celsius, should return 0

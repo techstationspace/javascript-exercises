@@ -21,6 +21,8 @@ your job is to write a function that takes the array and returns an array of tit
 getTheTitles(books) // ['Book','Book2']
 ```
 
+Run the tests by entering `npm run jest -- getTheTitles/getTheTitles.spec.js` in the terminal and watch it fail.
+
 ## Hints
 
 - You should use a built-in javascript method to do most of the work for you!
