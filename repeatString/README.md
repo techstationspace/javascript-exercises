@@ -1,5 +1,7 @@
 # Exercise 02 - repeatString
 
+Run the tests by entering `npm run jest -- repeatString/repeatString.spec.js` in the terminal and watch it fail.
+
 Write a function that simply repeats the string a given number of times:
 
 ```javascript
@@ -15,4 +17,4 @@ You will notice in this exercise that there are multiple tests (see in file `rep
 
 - Create a variable to hold the string you're going to return, create a loop that repeats the given number of times and add the given string to the result on each loop.
 
-- If running `jasmine repeatString.spec.js` raises `Temporarily disabled with xit` errors, make sure you have enabled the rest of the tests (see above).
+- If running `npm run jest -- repeatString/repeatString.spec.js` will skip some test, make sure you have enabled the rest of the tests: change `xit` to `it`.

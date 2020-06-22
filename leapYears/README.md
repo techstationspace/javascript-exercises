@@ -11,6 +11,7 @@ leapYears(2000) // is a leap year: returns true
 leapYears(1985) // is not a leap year: returns false
 ```
 
+Run the tests by entering `npm run jest -- leapYears/leapYears.spec.js` in the terminal and watch it fail.
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly

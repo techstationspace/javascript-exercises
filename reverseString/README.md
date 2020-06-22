@@ -1,5 +1,7 @@
 # Exercise 02 - Reverse a String.
 
+Run the tests by entering `npm run jest -- reverseString/reverseString.spec.js` in the terminal and watch it fail.
+
 Pretty simple, write a function called `reverseString` that returns its input, reversed!
 
 ```javascript

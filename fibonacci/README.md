@@ -8,3 +8,5 @@ Create a function that returns a specific member of the fibonacci sequence:
 fibonacci(4) // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6) // returns 8
 ```
+
+Run the tests by entering `npm run jest -- fibonacci/fibonacci.spec.js` in the terminal and watch it fail.

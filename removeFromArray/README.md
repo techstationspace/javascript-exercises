@@ -1,5 +1,7 @@
 # Exercise 04 - removeFromArray
 
+Run the tests by entering `npm run jest -- removeFromArray/removeFromArray.spec.js` in the terminal and watch it fail.
+
 Implement a function that takes an array and some other arguments then removes the other arguments from that array:
 
 ```javascript
